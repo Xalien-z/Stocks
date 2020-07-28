@@ -12,3 +12,8 @@ in this branch we use these methods (listed according to each corresponding leve
       Sell stocks
 3. API to sell and buy stocks: TBD 
 
+list of sources:
+stage 3:
+https://www.nerdwallet.com/article/investing/how-to-buy-stocks
+
+
