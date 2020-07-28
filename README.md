@@ -1,2 +1,3 @@
 # Stocks
-buying and selling stocks 
+buying and selling stocks automatically.
+
